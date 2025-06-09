@@ -27,4 +27,4 @@ python3 cvActualice.py
 ## Notas
 
 - El AdBlock únicamente se instala si el usuario selecciona el portal Trabajos Diarios por razones obvias.  
-- La herramienta utiliza ChromeDriver que cada vez que se ejecuta, trabaja en una sesión limpia e independiente, la cuál desaparece una vez finaliza el script.
+- La herramienta utiliza ChromeDriver, cada vez que se ejecuta, trabaja en una sesión limpia e independiente, la cuál desaparece una vez finaliza el script.
